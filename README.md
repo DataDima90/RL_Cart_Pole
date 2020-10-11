@@ -1,4 +1,4 @@
-# Reinforcment Learning
+# Reinforcement Learning
 
 A showcase Reinforcement Learning project for CartPole Game.
 
