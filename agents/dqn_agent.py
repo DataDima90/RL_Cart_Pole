@@ -70,8 +70,8 @@ class DQNAgent:
     def _act(self, state: np.ndarray):
         """
 
-        :param state:
-        :return:
+        :param state: information we need for training the agent
+        :return: next action of the agent
         """
         if np.random.rand() <= self.epsilon:
             # The agent acts randomly
